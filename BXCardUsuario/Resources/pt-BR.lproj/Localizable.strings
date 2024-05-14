@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  BXCardUsuario
+
+  Created by Rafael Rocha Gans on 21/06/22.
+  Copyright © 2022 Fourtime Informática Ltda. All rights reserved.
+*/
+
+"error.message.generic" = "Ops! Ocorreu um erro inesperado. Caso persista, entre em contato conosco.";
+"error.message.no_connection" = "Parece que você está sem conexão com a internet, tente novamente.";
+"error.message.invalid_qrcode" = "QR code inválido.";
+"error.message.invalid_password" = "Senha incorreta, tente novamente.";

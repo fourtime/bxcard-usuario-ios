@@ -1,0 +1,114 @@
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "5k5-Ak-ztV"; */
+"5k5-Ak-ztV.placeholder" = "E-mail";
+
+/* Class = "UIButton"; normalTitle = "Entrar"; ObjectID = "89n-5D-arq"; */
+"89n-5D-arq.normalTitle" = "Entrar";
+
+/* Class = "UITextField"; placeholder = "Confirmação"; ObjectID = "AAm-iV-EwJ"; */
+"AAm-iV-EwJ.placeholder" = "Confirmação";
+
+/* Class = "UILabel"; text = "As senhas não coincidem, tente novamente."; ObjectID = "BW1-V9-m7D"; */
+"BW1-V9-m7D.text" = "As senhas não coincidem, tente novamente.";
+
+/* Class = "UILabel"; text = "Agora crie uma\nsenha de acesso"; ObjectID = "BZ3-f8-htW"; */
+"BZ3-f8-htW.text" = "Agora crie uma\nsenha de acesso";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "BgA-9l-wbm"; */
+"BgA-9l-wbm.normalTitle" = "Continuar";
+
+/* Class = "UILabel"; text = "Utilize o seu CPF e a senha que acabou de criar para entrar nas próximas vezes."; ObjectID = "FSD-ag-FIY"; */
+"FSD-ag-FIY.text" = "Utilize o seu CPF e a senha que acabou de criar para entrar nas próximas vezes.";
+
+/* Class = "UIButton"; normalTitle = "Sair"; ObjectID = "J61-Iy-V0J"; */
+"J61-Iy-V0J.normalTitle" = "Sair";
+
+/* Class = "UILabel"; text = "Digite seu e-mail"; ObjectID = "K1y-zu-Rdq"; */
+"K1y-zu-Rdq.text" = "Digite seu e-mail";
+
+/* Class = "UITextField"; placeholder = "Senha"; ObjectID = "Kt7-3W-j8H"; */
+"Kt7-3W-j8H.placeholder" = "Senha";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "Kt7-3W-j8H"; */
+"Kt7-3W-j8H.text" = "0";
+
+/* Class = "UILabel"; text = "Digite seu CPF"; ObjectID = "N9x-hN-ZaK"; */
+"N9x-hN-ZaK.text" = "Digite seu CPF";
+
+/* Class = "UILabel"; text = "Senha incorreta,\ntente novamente."; ObjectID = "QGX-qW-fI0"; */
+"QGX-qW-fI0.text" = "Senha incorreta,\ntente novamente.";
+
+/* Class = "UIButton"; normalTitle = "Esqueci minha senha"; ObjectID = "T1j-WX-njS"; */
+"T1j-WX-njS.normalTitle" = "Esqueci minha senha";
+
+/* Class = "UIButton"; normalTitle = "Entrar"; ObjectID = "TSj-jW-l1S"; */
+"TSj-jW-l1S.normalTitle" = "Entrar";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "UIN-r9-qsN"; */
+"UIN-r9-qsN.normalTitle" = "Continuar";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "UTy-Hk-lUg"; */
+"UTy-Hk-lUg.normalTitle" = "Continuar";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "VJe-J8-1ZW"; */
+"VJe-J8-1ZW.normalTitle" = "Continuar";
+
+/* Class = "UITextField"; placeholder = "CPF"; ObjectID = "Vbo-2b-keO"; */
+"Vbo-2b-keO.placeholder" = "CPF";
+
+/* Class = "UITextField"; text = "000.000.000-00"; ObjectID = "Vbo-2b-keO"; */
+"Vbo-2b-keO.text" = "000.000.000-00";
+
+/* Class = "UILabel"; text = "Receba atualizações"; ObjectID = "YPX-fv-zDN"; */
+"YPX-fv-zDN.text" = "Receba atualizações";
+
+/* Class = "UIButton"; normalTitle = "Sim"; ObjectID = "azv-Os-Tnd"; */
+"azv-Os-Tnd.normalTitle" = "Sim";
+
+/* Class = "UILabel"; text = "Cartão não encontrado, tente novamente."; ObjectID = "dBA-gV-PEZ"; */
+"dBA-gV-PEZ.text" = "Cartão não encontrado, tente novamente.";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ddf-8h-ta8"; */
+"ddf-8h-ta8.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Política de privacidade"; ObjectID = "e4o-OO-fqx"; */
+"e4o-OO-fqx.normalTitle" = "Política de privacidade";
+
+/* Class = "UIButton"; normalTitle = "Não"; ObjectID = "f7D-7J-e4e"; */
+"f7D-7J-e4e.normalTitle" = "Não";
+
+/* Class = "UILabel"; text = "Digite sua senha"; ObjectID = "fwV-l2-xEQ"; */
+"fwV-l2-xEQ.text" = "Digite sua senha";
+
+/* Class = "UIButton"; normalTitle = "Termos de uso"; ObjectID = "k7g-s9-pwF"; */
+"k7g-s9-pwF.normalTitle" = "Termos de uso";
+
+/* Class = "UILabel"; text = "AB"; ObjectID = "kDN-t2-X7c"; */
+"kDN-t2-X7c.text" = "AB";
+
+/* Class = "UILabel"; text = "Boas-vindas, Fulano"; ObjectID = "lrT-6x-kHC"; */
+"lrT-6x-kHC.text" = "Boas-vindas, Fulano";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "tKR-tK-Fss"; */
+"tKR-tK-Fss.normalTitle" = "Continuar";
+
+/* Class = "UIButton"; normalTitle = "Atendimento"; ObjectID = "uMW-xF-JZ2"; */
+"uMW-xF-JZ2.normalTitle" = "Atendimento";
+
+/* Class = "UITextField"; placeholder = "Senha"; ObjectID = "vUX-oP-ahT"; */
+"vUX-oP-ahT.placeholder" = "Senha";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "vys-vv-4BK"; */
+"vys-vv-4BK.text" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Editar perfil"; ObjectID = "wma-US-MlQ"; */
+"wma-US-MlQ.normalTitle" = "Editar perfil";
+
+/* Class = "UILabel"; text = "Informe os 4 últimos\ndígitos do seu cartão"; ObjectID = "xyh-lD-en7"; */
+"xyh-lD-en7.text" = "Informe os 4 últimos\ndígitos do seu cartão";
+
+/* Class = "UIButton"; normalTitle = "Alterar senha"; ObjectID = "z6K-IM-TnW"; */
+"z6K-IM-TnW.normalTitle" = "Alterar senha";
+
+/* Class = "UILabel"; text = "Ative as notificações e saiba quando seu cartão for recarregado ou quando uma compra for feita."; ObjectID = "zZ5-EI-3AX"; */
+"zZ5-EI-3AX.text" = "Ative as notificações e saiba quando seu cartão for recarregado ou quando uma compra for feita.";

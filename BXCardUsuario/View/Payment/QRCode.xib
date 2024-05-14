@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="dvF-l7-fHT">
+            <rect key="frame" x="0.0" y="0.0" width="314" height="133"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="SzD-AX-fP6">
+                    <rect key="frame" x="16.5" y="17" width="281" height="99"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="R95-wG-7Hk">
+                            <rect key="frame" x="0.0" y="0.0" width="281" height="39"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="281" id="qAE-Fs-Fpa"/>
+                            </constraints>
+                            <string key="text">Posicione o QR Code no quadrado
+abaixo para que seja escaneado.</string>
+                            <fontDescription key="fontDescription" name="Verdana" family="Verdana" pointSize="16"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image-down-arrow-white" translatesAutoresizingMaskIntoConstraints="NO" id="WXa-A5-2R9">
+                            <rect key="frame" x="118" y="54" width="45" height="45"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="45" id="kI8-gX-vU0"/>
+                                <constraint firstAttribute="height" constant="45" id="uXG-Pg-Vbc"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="SzD-AX-fP6" firstAttribute="centerY" secondItem="dvF-l7-fHT" secondAttribute="centerY" id="MC6-7V-Hjr"/>
+                <constraint firstItem="SzD-AX-fP6" firstAttribute="centerX" secondItem="dvF-l7-fHT" secondAttribute="centerX" id="SXW-HZ-BVa"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="nLV-GJ-8CL"/>
+            <point key="canvasLocation" x="-225.59999999999999" y="-752.47376311844084"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="image-down-arrow-white" width="45" height="45"/>
+    </resources>
+</document>
